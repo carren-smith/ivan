@@ -113,4 +113,4 @@ function getAgentInfo(string) {
     return !isiPad && userAgent.match(pattern);
   }
 }
-© 2020 GitHub, Inc.
+
